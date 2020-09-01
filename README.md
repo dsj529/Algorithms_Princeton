@@ -9,6 +9,6 @@ Contents:
 5) **K-D Trees**  implementing a K-D tree from scratch, to look for 1-D and 2-D intersections of points and figures.
 6) **WordNet** applying Breadth and Depth based searching to compare terms in the WordNet graph of nouns.
 7) **SeamCarving**  using Dijkstra's algorithm to find the shortest path through an image to shrink it across one axis without affecting the main features.
-8) **Baseball Elimination** application of max-flow and min-cut to evaluate which teams in a given league are still in contention.
+8) **Graph Flow** application of max-flow and min-cut to evaluate which teams in a given league are still in contention.
 9) **Boggle**  Using DFS and the Trie structure to find all scoring words in a Boggle board layout
 10) **Burrows-Wheeler** implementing a circular suffix array and the Burrows-Wheeler transformation to create a highly compressible representation of a data stream.
